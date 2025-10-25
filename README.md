@@ -1,3 +1,6 @@
+## NAME: SRI SRINIVASAN K
+## REGISTER NUMBER:212224220104
+
 ## AIM:
 
 To implement the ElGamal encryption and decryption algorithm using C for secure communication.
